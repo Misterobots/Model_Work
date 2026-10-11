@@ -1,5 +1,14 @@
 # Automated 5V HydroLink Mini Water Slide: interface check and revised plan
 
+> **Status: superseded.** The screw lift was chosen and built out. Current documents:
+> [docs/BUILD_GUIDE.md](docs/BUILD_GUIDE.md), [docs/BOM.md](docs/BOM.md), [docs/INTERFACES.md](docs/INTERFACES.md).
+> Several starting values below changed after checking against the real meshes:
+> - 4 screw segments, not 3
+> - the trough is in 3 pieces
+> - risers replace the wedge feet
+> - the head box pours into the slide's open end
+> - the vortex chamber is not in the default loop
+
 Sources checked: `HydroLink_final_V1.33.3mf` (12 plates) and `FlowLab3.3mf` (8 plates). Meshes were measured directly; the designers' descriptions and photos were read. "Measured" below means taken from the mesh; "estimate" means calculated or inferred and needs a dry-fit to confirm.
 
 ## 1. What the attached files do and don't contain

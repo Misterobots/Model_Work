@@ -1,0 +1,3 @@
+__pycache__/
+*.pyc
+cad/lift/stl/_fit_scene.stl
